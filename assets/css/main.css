@@ -1686,8 +1686,8 @@ input, select, textarea {
 		}
 
 		.work-item {
-			width: 50%;
-			margin: 0 16px;
+			width: 100%;
+			margin: 0 16px;	
 		}
 
 		.work-desc {
